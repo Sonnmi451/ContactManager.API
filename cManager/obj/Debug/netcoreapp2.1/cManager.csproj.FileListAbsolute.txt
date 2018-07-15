@@ -1,0 +1,11 @@
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\bin\Debug\netcoreapp2.1\cManager.deps.json
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\bin\Debug\netcoreapp2.1\cManager.runtimeconfig.json
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\bin\Debug\netcoreapp2.1\cManager.runtimeconfig.dev.json
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\bin\Debug\netcoreapp2.1\cManager.dll
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\obj\Debug\netcoreapp2.1\cManager.csprojAssemblyReference.cache
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\obj\Debug\netcoreapp2.1\cManager.csproj.CoreCompileInputs.cache
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\obj\Debug\netcoreapp2.1\cManager.AssemblyInfoInputs.cache
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\obj\Debug\netcoreapp2.1\cManager.AssemblyInfo.cs
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\bin\Debug\netcoreapp2.1\cManager.pdb
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\obj\Debug\netcoreapp2.1\cManager.dll
+C:\Users\HASELT-Sanja.S\source\repos\cManager\cManager\obj\Debug\netcoreapp2.1\cManager.pdb

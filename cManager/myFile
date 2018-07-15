@@ -1,0 +1,51 @@
+[
+  {
+    "Id": "66dd7107-1a7c-47df-ad43-92b574e6622e",
+    "FirstName": "Sanjaa",
+    "LastName": "Stojkova",
+    "Email": "s-stojkova@live.com",
+    "PhoneNumber": "071-355-142"
+  },
+  {
+    "Id": "87abcf0a-c82b-4377-b36f-4ffac14dbc2a",
+    "FirstName": "Ana",
+    "LastName": "Milhcevska",
+    "Email": "ana-milcheska@gmail.com",
+    "PhoneNumber": "070-555-777"
+  },
+  {
+    "Id": "03f26bb4-721c-43d6-8f27-194d61d9267a",
+    "FirstName": "Lale",
+    "LastName": "Galeb",
+    "Email": "lalae-galeb@gmail.com",
+    "PhoneNumber": "071-567-789"
+  },
+  {
+    "Id": "8a62985c-4382-41be-80a3-44bba43619b0",
+    "FirstName": "Anastasija",
+    "LastName": "Malinova",
+    "Email": "s-stojkova@live.com",
+    "PhoneNumber": "071-255-152"
+  },
+  {
+    "Id": "8c631b69-5aaf-43db-9992-cfe9e6aed18a",
+    "FirstName": "Name",
+    "LastName": "Surname",
+    "Email": "email@gmail.com",
+    "PhoneNumber": "070-890-000"
+  },
+  {
+    "Id": "325e1a50-977c-474c-956f-2cedbe48ef61",
+    "FirstName": "Name",
+    "LastName": "Surname",
+    "Email": "email@gmail.com",
+    "PhoneNumber": "070-890-000"
+  },
+  {
+    "Id": "c7495952-e27c-40fa-b4ba-aac7d1224f50",
+    "FirstName": "Name",
+    "LastName": "Surname",
+    "Email": "email@gmail.com",
+    "PhoneNumber": "070-890-000"
+  }
+]
